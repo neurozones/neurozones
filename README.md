@@ -1,7 +1,7 @@
-<div align="center">
+
  
  ![](https://komarev.com/ghpvc/?username=mutiIator&style=plastic&color=421c23&label=hi!)
- </div>
+ 
 <div align="center">
 <img src="https://www.image2url.com/r2/default/images/1780550995848-7d96763f-6fac-48c0-a76e-9d100ea8788b.png" />
 “ Counting The Stars Like You And I. ”
